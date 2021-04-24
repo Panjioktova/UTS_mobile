@@ -1,0 +1,2 @@
+com/panji/uts_18090120/BuildConfig.java
+ com.panji.uts_18090120.BuildConfig
